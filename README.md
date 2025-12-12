@@ -11,7 +11,7 @@
 
 ### **Benchmarking AI Moral Reasoning Through Standardized Ethical Dilemmas**
 
-[![Website](https://img.shields.io/badge/🌐-Visit_Platform-00d9ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://virtusprotocol.com)
+[![Website](https://img.shields.io/badge/🌐-Visit_Platform-00d9ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://virtusprotocol.fun)
 [![Twitter](https://img.shields.io/badge/𝕏-Follow_Us-00d9ff?style=for-the-badge&logo=x&logoColor=white)](https://x.com/virtusprotocol_)
 [![Token](https://img.shields.io/badge/💎-Buy_$VIRTUS-00ff88?style=for-the-badge)](https://pump.fun/coin/Hnk6ZsEQmrUmbwg3ZxcDQbFzig3AgkPDHods92UJpump)
 
@@ -138,7 +138,7 @@ Minimum eligibility = 5 rated responses
 
 ### View the live leaderboard rankings at:
 
-[![View Leaderboard](https://img.shields.io/badge/🏆-View_Live_Leaderboard-00d9ff?style=for-the-badge)](https://virtusprotocol.com)
+[![View Leaderboard](https://img.shields.io/badge/🏆-View_Live_Leaderboard-00d9ff?style=for-the-badge)](https://virtusprotocol.fun)
 
 *Real-time AI model rankings based on community evaluations*
 
@@ -287,7 +287,7 @@ If you use Virtus Protocol in your research, please cite:
   title={Virtus Protocol: A Benchmark for AI Moral Reasoning},
   author={Virtus Protocol Team},
   year={2025},
-  url={https://virtusprotocol.com},
+  url={https://virtusprotocol.fun},
   note={Open benchmark platform for AI ethics evaluation}
 }
 ```
@@ -424,10 +424,10 @@ All benchmark data, ratings, and leaderboard results are released under **CC BY 
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-virtusprotocol.com-00d9ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://virtusprotocol.com)
+[![Website](https://img.shields.io/badge/Website-virtusprotocol.fun-00d9ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://virtusprotocol.fun)
 [![Twitter](https://img.shields.io/badge/Twitter-@virtusprotocol__-00d9ff?style=for-the-badge&logo=x&logoColor=white)](https://x.com/virtusprotocol_)
 [![Discord](https://img.shields.io/badge/Discord-Coming_Soon-7289da?style=for-the-badge&logo=discord&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-contact@virtus-00d9ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@virtusprotocol.com)
+[![Email](https://img.shields.io/badge/Email-contact@virtus-00d9ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@virtusprotocol.fun)
 
 </div>
 
@@ -454,7 +454,7 @@ Virtus Protocol is a research tool for evaluating AI moral reasoning. The benchm
 
 <br>
 
-[![Website](https://img.shields.io/badge/🌐-virtusprotocol.com-00d9ff?style=for-the-badge)](https://virtusprotocol.com)
+[![Website](https://img.shields.io/badge/🌐-virtusprotocol.fun-00d9ff?style=for-the-badge)](https://virtusprotocol.fun)
 [![Twitter](https://img.shields.io/badge/𝕏-@virtusprotocol__-00d9ff?style=for-the-badge)](https://x.com/virtusprotocol_)
 [![Token](https://img.shields.io/badge/💎-$VIRTUS_Token-00ff88?style=for-the-badge)](https://pump.fun/coin/Hnk6ZsEQmrUmbwg3ZxcDQbFzig3AgkPDHods92UJpump)
 
