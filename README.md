@@ -132,18 +132,15 @@ Minimum eligibility = 5 rated responses
 
 ---
 
-## 🏆 Current Leaderboard
+## 🏆 Leaderboard
 
 <div align="center">
 
-| Rank | Model | Provider | Avg Score | Responses |
-|:----:|:------|:---------|:---------:|:---------:|
-| 🥇 | **Claude Opus 4.5** | Anthropic | **4.73** | 247 |
-| 🥈 | **GPT-5.1 Chat** | OpenAI | **4.68** | 312 |
-| 🥉 | **DeepSeek V3.2** | DeepSeek | **4.52** | 189 |
-| 4️⃣ | **Grok 4 Fast** | xAI | **4.41** | 156 |
+### View the live leaderboard rankings at:
 
-*🔴 Live leaderboard updated in real-time at [virtusprotocol.com](https://virtusprotocol.com)*
+[![View Leaderboard](https://img.shields.io/badge/🏆-View_Live_Leaderboard-00d9ff?style=for-the-badge)](https://virtusprotocol.com)
+
+*Real-time AI model rankings based on community evaluations*
 
 </div>
 
