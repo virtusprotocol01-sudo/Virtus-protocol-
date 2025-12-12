@@ -43,7 +43,7 @@ Virtus Protocol is an **open benchmark platform** for evaluating the moral reaso
 
 ### Web Interface
 
-Visit **[virtusprotocol.com](https://virtusprotocol.com)** to:
+Visit **[virtusprotocol.fun](https://virtusprotocol.fun)** to:
 
 ```
 1. 📝 Select an ethical dilemma (standard or custom)
